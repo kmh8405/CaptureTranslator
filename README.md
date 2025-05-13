@@ -63,6 +63,11 @@ CaptureTranslatorApp/
 
 ## 🕹️ 설치 및 사용 방법
 
+📦 [다운로드](https://github.com/kmh8405/CaptureTranslator/releases/latest) (압축 해제 후 CaptureTranslatorApp.exe 파일 실행) ⬅ 제일 간편
+
+또는
+
+프로젝트 다운로드 ⬇
 > Visual Studio가 필요합니다. Tesseract 학습 파일을 수동으로 넣어야 합니다.
 > 
 1. 본 저장소를 `ZIP 다운로드` 후 압축 해제 → `.sln` 파일을 Visual Studio에서 실행
