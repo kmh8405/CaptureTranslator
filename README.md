@@ -63,7 +63,7 @@ CaptureTranslatorApp/
 
 ## 🕹️ 설치 및 사용 방법
 
-📦 [다운로드](https://github.com/kmh8405/CaptureTranslator/releases/latest) (압축 해제 후 CaptureTranslatorApp.exe 파일 실행) ⬅ 제일 간편
+📦 [다운로드](https://github.com/kmh8405/CaptureTranslator/releases/download/v1.0/CaptureTranslatorApp.zip) (압축 해제 후 CaptureTranslatorApp.exe 파일 실행) ⬅ 제일 간편
 
 또는
 
